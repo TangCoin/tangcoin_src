@@ -1,0 +1,9 @@
+Building Tangcoin
+
+See doc/readme-qt.rst for instructions on building Tangcoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Tangcoin.
+
+See doc/build-*.txt for instructions on building tangcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Tangcoin.
